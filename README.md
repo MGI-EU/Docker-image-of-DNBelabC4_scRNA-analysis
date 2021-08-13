@@ -1,1 +1,1 @@
-# C_Series_scRNA-analysis-pipelineDocker-image-of-DNBelab_
+# Docker-image-of-DNBelabC_Series_scRNA-analysis-pipeline
