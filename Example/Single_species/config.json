@@ -1,0 +1,11 @@
+{
+    "main.fastq1": "/DNBelab_C4/rawfq/Demo1.human.fq.1.gz",
+    "main.fastq2": "/DNBelab_C4/rawfq/Demo1.human.fq.2.gz",
+    "main.ID": "Demo_single",
+    "main.expectCell":"500",
+    "main.umilow": "1000",
+    "main.species":"GRCh38",
+    "main.original":"cell lines",
+    "main.SampleTime":"2020-06-25",
+    "main.ExperimentalTime":"2020-06-25"
+   }

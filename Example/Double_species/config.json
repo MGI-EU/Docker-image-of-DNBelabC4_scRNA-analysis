@@ -1,0 +1,11 @@
+{
+    "main.fastq1": "/DNBelab_C4/rawfq/Demo.double.fq.1.gz",
+    "main.fastq2": "/DNBelab_C4/rawfq/Demo.double.fq.2.gz",
+    "main.ID": "Demo_double",
+    "main.umilow": "1000",
+    "main.expectCell":"500",
+    "main.species":"GRCh38_mm10",
+    "main.original":"cell lines",
+    "main.SampleTime":"2021-06-25",
+    "main.ExperimentalTime":"2021-06-25"
+   }

@@ -1,0 +1,10 @@
+Number of Fragments,1000000
+Fragments pass QC,874981
+Fragments with Exactly Matched Barcodes,874981
+Fragments with Failed Barcodes,125019
+Fragments Filtered on Low Qulity,0
+Fragments Filtered on Unknown Sample Barcodes,0
+Q30 bases in Cell Barcode,95.3%
+Q30 bases in Sample Barcode,0.0%
+Q30 bases in UMI,93.2%
+Q30 bases in Reads,93.2%
