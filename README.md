@@ -105,10 +105,10 @@ Html report
 
 - single species
 
-<img src="C:\Users\dingrenpeng\AppData\Roaming\Typora\typora-user-images\image-20210813145529181.png" alt="image-20210813145529181" style="zoom:50%;" />
+![image](https://user-images.githubusercontent.com/79911830/129350861-60f2ca1a-941d-46da-b3be-18b6e5aeaa2c.png)
 
 - Double species
-- <img src="C:\Users\dingrenpeng\AppData\Roaming\Typora\typora-user-images\image-20210813151242231.png" alt="image-20210813151242231" style="zoom:50%;" />
+![image](https://user-images.githubusercontent.com/79911830/129350982-fe70d961-a2e5-4921-93cd-f26681e31be5.png)
 
 ### 2.2 Latest update
 
