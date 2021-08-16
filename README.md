@@ -1,4 +1,4 @@
-# Docker-image-of-DNBelabC4__scRNA-analysis
+# Docker-image-of-DNBelabC4_scRNA-analysis
 
 ## 1. Introduction
 
