@@ -237,7 +237,7 @@ Raw fastq files containing scRNA sequence from both DNBelabC platform and 10X Ge
 ```shell
 #1.Install docker follow the official tutorial: https://www.docker.com/
 #2. Pull the images from docker hub: 
-docker pull dingrp/huangshunkai/dnbelab_c4:latest
+docker pull dingrp/huangshunkai_dnbelab_c4:latest
 ```
 
 ### 5.2 Singularity
@@ -245,7 +245,7 @@ docker pull dingrp/huangshunkai/dnbelab_c4:latest
 ```shell
 #1. Install singularity follow the offical tutorial:https://sylabs.io/guides/3.5/user-guide/quick_start.html#
 #2. Pull & build Singularity image
-singularity build DNBelabC4.sif docker://dingrp/huangshunkai/dnbelab_c4:latest
+singularity build DNBelabC4.sif docker://dingrp/huangshunkai_dnbelab_c4:latest
 ```
 
 ## 6. Usage
@@ -276,7 +276,7 @@ Running
    -v $DB_LOCAL:/DNBelab_C4/database \
    -v $DATA_LOCAL:/DNBelab_C4/rawfq \
    -v $RESULT_LOCAL:/DNBelab_C4/result \
-   huangshunkai/dnbelab_c4:latest \
+   dingrp/huangshunkai_dnbelab_c4:latest \
    /bin/bash \
    /DNBelab_C4/bin/mgiRun.sh
    
@@ -286,7 +286,7 @@ Running
    -v $DB_LOCAL:/DNBelab_C4/database \
    -v $DATA_LOCAL:/DNBelab_C4/rawfq \
    -v $RESULT_LOCAL:/DNBelab_C4/result \
-   dingrp/huangshunkai/dnbelab_c4:latest \
+   dingrp/huangshunkai_dnbelab_c4:latest \
    /bin/bash \
    /DNBelab_C4/bin/mgiRun_double.sh
    
@@ -296,7 +296,7 @@ Running
    -v $DB_LOCAL:/DNBelab_C4/database \
    -v $DATA_LOCAL:/DNBelab_C4/rawfq \
    -v $RESULT_LOCAL:/DNBelab_C4/result \
-   huangshunkai/dnbelab_c4:latest \
+   dingrp/huangshunkai_dnbelab_c4:latest \
    /bin/bash \
    /DNBelab_C4/bin/10xRun.sh
   
