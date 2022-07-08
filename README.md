@@ -174,7 +174,7 @@ You can also build the database by yourself.
 ```shell
 # Creat the database directory
 mkdir database/example_database && cd database/example_database
-mkdir fasta && mkdir gtf && mkdir mkdir 
+mkdir fasta && mkdir gtf && mkdir star_index 
 # Copy or download the prepared fastq file and gene gtf file to the corresponding directory
 # Build STAR index
 PATH/TO/STAR --runThreadN 8 --runMode genomeGenerate --genomeDir star_index --genomeFastaFiles ./fasta/example_genome.fa --sjdbGTFfile ./gtf/example_genes.gtf
